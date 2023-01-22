@@ -10,7 +10,7 @@ $ git clone git@github.com:andreja-petrovic/qa-exam-kitchen
 #2. Prebaci se u folder
 $ cd zadatak
 
-#3. Intaliraj python venv
+#3. Instaliraj python venv
 $ sudo apt install python3-venv
 
 #4. Kreiraj virtual environment
