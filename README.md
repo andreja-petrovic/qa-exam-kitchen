@@ -1,2 +1,2 @@
-# qa-exam-kitchen
+# QA Exam Kitchen
 Zadatak za automatizaciju
