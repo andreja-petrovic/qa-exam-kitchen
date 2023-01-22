@@ -3,7 +3,7 @@ Zadatak za automatizaciju
 
 ## Postavka
 
-```
+```sh
 #1. Kloniraj projekat [https://github.com/andreja-petrovic/qa-exam-kitchen]
 $ git clone git@github.com:andreja-petrovic/qa-exam-kitchen
 
