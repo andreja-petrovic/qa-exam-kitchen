@@ -1,8 +1,8 @@
 # QA Exam Kitchen
 Zadatak za automatizaciju
 
-## Koiscene tehnologije
-Na projektu su korisceni Python (3.10) i Selenium
+## Koišćene tehnologije
+Na projektu su korišćeni Selenium i Python (3.10)
 
 ## Postavka
 
