@@ -8,7 +8,7 @@ Na projektu su korišćeni Selenium i Python (3.10)
 
 ```sh
 #1. Kloniraj projekat [https://github.com/andreja-petrovic/qa-exam-kitchen]
-$ git clone https://github.com/andreja-petrovic/qa-exam-kitchen.git
+$ git clone https://github.com/andreja-petrovic/qa-exam-kitchen
 
 #2. Prebaci se u folder
 $ cd zadatak
