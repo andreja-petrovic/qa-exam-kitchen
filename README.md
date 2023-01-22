@@ -1,6 +1,9 @@
 # QA Exam Kitchen
 Zadatak za automatizaciju
 
+## Koiscene tehnologije
+Na projektu su korisceni Python (3.10) i Selenium
+
 ## Postavka
 
 ```sh
