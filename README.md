@@ -29,5 +29,5 @@ $ pip install -r requirements.txt
 ## Pokretanje testova
 Koristi komandu ```pytest``` unutar virtual environment-a za pokretanje testova
 - ```pytest``` za pokretanje svih testova u fajlu
-- ```pytest test_zadatak.py::ime_testa_koji_pokreces``` (na primer: test_zadatak.py::test_zadatak_1_forma)
+- ```pytest test_zadatak.py::ime_testa_koji_pokreces``` (na primer: pytest test_zadatak.py::test_zadatak_1_forma)
 
