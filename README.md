@@ -11,7 +11,7 @@ Na projektu su korišćeni Selenium i Python (3.10)
 $ git clone https://github.com/andreja-petrovic/qa-exam-kitchen
 
 #2. Prebaci se u folder
-$ cd zadatak
+$ cd qa-exam-kitchen
 
 #3. Instaliraj python venv
 $ sudo apt install python3-venv
